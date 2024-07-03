@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/supriyagorain02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supriyagorain02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/supriya-gorain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supriya-gorain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/supriya-gorain-033871257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supriya-gorain" height="30" width="40" /></a>
 <a href="https://fb.com/supriyagorain2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supriyagorain2002" height="30" width="40" /></a>
 <a href="https://instagram.com/supriyagorain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supriyagorain" height="30" width="40" /></a>
 <a href="https://hashnode.com/@supriyagorain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@supriyagorain" height="30" width="40" /></a>
