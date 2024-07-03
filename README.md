@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/supriyagorain/supriyagorain/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Supriya Gorain</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
